@@ -16,7 +16,7 @@ Endianess: big endian
     - key key_len bytes (ASCII)
     - value val_len bytes 
 
-semantics for type:
+Semantics for type:
 - 0x01 = PNG
 - 0x02 = JPG
 - 0X03 - 010Editor
