@@ -27,4 +27,6 @@ typedef struct{
     kaistde_entry_t *entries;
 } kaistde_file_t;
 
+int kaistde_write(const kaistde_file_t *kst, FILE *fp);
+
 #endif
