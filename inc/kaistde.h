@@ -1,7 +1,6 @@
 #ifndef KAISTDE_H
 #define KAISTDE_H
 
-#include <cstdint>
 #include <stdint.h>
 #include <stdio.h>
 
